@@ -68,7 +68,7 @@
 	# git commit -m 'del_all_file'
 	# git push origin master
 
-	git add *
+	git add -A
 	git commit -m 'push_log'
 	git push origin master
 	git status
